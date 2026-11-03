@@ -1,4 +1,23 @@
 {
- "actualizado": "2026-11-02T21:30:00+01:00",
- "items": []
+ "actualizado": "2026-11-03T09:32:31+01:00",
+ "items": [
+  {
+   "titulo": "Google corta una puerta trasera en millones de cajas Android TV",
+   "url": "https://t.me/frikilabs/14",
+   "fecha": "2026-11-03",
+   "cat": "ciber"
+  },
+  {
+   "titulo": "¿Tienes cámaras Tapo? Toca actualizar el firmware",
+   "url": "https://t.me/frikilabs/13",
+   "fecha": "2026-11-03",
+   "cat": "domotica"
+  },
+  {
+   "titulo": "La Raspberry Pi 5 de 16 GB sube a 385 dólares",
+   "url": "https://t.me/frikilabs/12",
+   "fecha": "2026-11-03",
+   "cat": "gadgets"
+  }
+ ]
 }
