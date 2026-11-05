@@ -1,6 +1,18 @@
 {
- "actualizado": "2026-11-04T09:40:33+01:00",
+ "actualizado": "2026-11-05T09:31:33+01:00",
  "items": [
+  {
+   "titulo": "Home Assistant 2026.11 ya está aquí, y trae tienda de complementos oficial",
+   "url": "https://t.me/frikilabs/18",
+   "fecha": "2026-11-05",
+   "cat": "domotica"
+  },
+  {
+   "titulo": "Una placa ESP32-P4 con Ethernet, WiFi 6, RS485 y CAN por unos 21 dólares",
+   "url": "https://t.me/frikilabs/19",
+   "fecha": "2026-11-05",
+   "cat": "gadgets"
+  },
   {
    "titulo": "Microsoft Authenticator en Android pasa su copia de seguridad a Google One",
    "url": "https://t.me/frikilabs/17",
@@ -17,18 +29,6 @@
    "titulo": "Home Assistant cambia cómo nombra tus dispositivos",
    "url": "https://t.me/frikilabs/15",
    "fecha": "2026-11-04",
-   "cat": "domotica"
-  },
-  {
-   "titulo": "Google corta una puerta trasera en millones de cajas Android TV",
-   "url": "https://t.me/frikilabs/14",
-   "fecha": "2026-11-03",
-   "cat": "ciber"
-  },
-  {
-   "titulo": "¿Tienes cámaras Tapo? Toca actualizar el firmware",
-   "url": "https://t.me/frikilabs/13",
-   "fecha": "2026-11-03",
    "cat": "domotica"
   }
  ]
