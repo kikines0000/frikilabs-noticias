@@ -1,6 +1,18 @@
 {
- "actualizado": "2026-11-05T09:31:33+01:00",
+ "actualizado": "2026-11-06T09:46:38+01:00",
  "items": [
+  {
+   "titulo": "Olimex lanza Ethernet por cable a ~5 € para Pico y ESP32 (con ESPHome)",
+   "url": "https://t.me/frikilabs/20",
+   "fecha": "2026-11-06",
+   "cat": "gadgets"
+  },
+  {
+   "titulo": "Desactivar el seguimiento de la tele no siempre basta",
+   "url": "https://t.me/frikilabs/21",
+   "fecha": "2026-11-06",
+   "cat": "ciber"
+  },
   {
    "titulo": "Home Assistant 2026.11 ya está aquí, y trae tienda de complementos oficial",
    "url": "https://t.me/frikilabs/18",
@@ -18,18 +30,6 @@
    "url": "https://t.me/frikilabs/17",
    "fecha": "2026-11-04",
    "cat": "ciber"
-  },
-  {
-   "titulo": "Aparecen una Raspberry Pi Zero 3 W y una Pi 4 Model A en el código",
-   "url": "https://t.me/frikilabs/16",
-   "fecha": "2026-11-04",
-   "cat": "gadgets"
-  },
-  {
-   "titulo": "Home Assistant cambia cómo nombra tus dispositivos",
-   "url": "https://t.me/frikilabs/15",
-   "fecha": "2026-11-04",
-   "cat": "domotica"
   }
  ]
 }
