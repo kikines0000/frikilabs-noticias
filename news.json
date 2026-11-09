@@ -1,6 +1,12 @@
 {
- "actualizado": "2026-11-06T09:46:38+01:00",
+ "actualizado": "2026-11-09T09:35:32+01:00",
  "items": [
+  {
+   "titulo": "Dos fallos graves en el Philips Hue Bridge Pro: revisa la versión",
+   "url": "https://t.me/frikilabs/22",
+   "fecha": "2026-11-09",
+   "cat": "ciber"
+  },
   {
    "titulo": "Olimex lanza Ethernet por cable a ~5 € para Pico y ESP32 (con ESPHome)",
    "url": "https://t.me/frikilabs/20",
@@ -24,12 +30,6 @@
    "url": "https://t.me/frikilabs/19",
    "fecha": "2026-11-05",
    "cat": "gadgets"
-  },
-  {
-   "titulo": "Microsoft Authenticator en Android pasa su copia de seguridad a Google One",
-   "url": "https://t.me/frikilabs/17",
-   "fecha": "2026-11-04",
-   "cat": "ciber"
   }
  ]
 }
