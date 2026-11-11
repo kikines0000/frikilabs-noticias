@@ -1,6 +1,18 @@
 {
- "actualizado": "2026-11-10T09:31:36+01:00",
+ "actualizado": "2026-11-11T09:26:03+01:00",
  "items": [
+  {
+   "titulo": "Ring lanza un dron con cámara para vigilar el interior de casa",
+   "url": "https://t.me/frikilabs/26",
+   "fecha": "2026-11-11",
+   "cat": "gadgets"
+  },
+  {
+   "titulo": "LocalDot: convierte un Echo Dot de 3.ª generación en asistente de voz local para Home Assistant",
+   "url": "https://t.me/frikilabs/25",
+   "fecha": "2026-11-11",
+   "cat": "domotica"
+  },
   {
    "titulo": "Shelly pide actualizar ya el firmware de sus aparatos Gen2 y posteriores",
    "url": "https://t.me/frikilabs/24",
@@ -18,18 +30,6 @@
    "url": "https://t.me/frikilabs/20",
    "fecha": "2026-11-06",
    "cat": "gadgets"
-  },
-  {
-   "titulo": "Desactivar el seguimiento de la tele no siempre basta",
-   "url": "https://t.me/frikilabs/21",
-   "fecha": "2026-11-06",
-   "cat": "ciber"
-  },
-  {
-   "titulo": "Home Assistant 2026.11 ya está aquí, y trae tienda de complementos oficial",
-   "url": "https://t.me/frikilabs/18",
-   "fecha": "2026-11-05",
-   "cat": "domotica"
   }
  ]
 }
