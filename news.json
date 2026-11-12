@@ -1,35 +1,35 @@
 {
- "actualizado": "2026-11-11T09:26:03+01:00",
- "items": [
-  {
-   "titulo": "Ring lanza un dron con cámara para vigilar el interior de casa",
-   "url": "https://t.me/frikilabs/26",
-   "fecha": "2026-11-11",
-   "cat": "gadgets"
-  },
-  {
-   "titulo": "LocalDot: convierte un Echo Dot de 3.ª generación en asistente de voz local para Home Assistant",
-   "url": "https://t.me/frikilabs/25",
-   "fecha": "2026-11-11",
-   "cat": "domotica"
-  },
-  {
-   "titulo": "Shelly pide actualizar ya el firmware de sus aparatos Gen2 y posteriores",
-   "url": "https://t.me/frikilabs/24",
-   "fecha": "2026-11-10",
-   "cat": "ciber"
-  },
-  {
-   "titulo": "Dos fallos graves en el Philips Hue Bridge Pro: revisa la versión",
-   "url": "https://t.me/frikilabs/22",
-   "fecha": "2026-11-09",
-   "cat": "ciber"
-  },
-  {
-   "titulo": "Olimex lanza Ethernet por cable a ~5 € para Pico y ESP32 (con ESPHome)",
-   "url": "https://t.me/frikilabs/20",
-   "fecha": "2026-11-06",
-   "cat": "gadgets"
-  }
- ]
+  "actualizado": "2026-11-12T09:17:02+01:00",
+  "items": [
+    {
+      "titulo": "Gemini ya funciona en CarPlay",
+      "url": "https://t.me/frikilabs/28",
+      "fecha": "2026-11-12",
+      "cat": "ia"
+    },
+    {
+      "titulo": "Home Assistant lanza el Connect AUX-2 para dar vida a aparatos viejos",
+      "url": "https://t.me/frikilabs/27",
+      "fecha": "2026-11-12",
+      "cat": "domotica"
+    },
+    {
+      "titulo": "Ring lanza un dron con cámara para vigilar el interior de casa",
+      "url": "https://t.me/frikilabs/26",
+      "fecha": "2026-11-11",
+      "cat": "gadgets"
+    },
+    {
+      "titulo": "LocalDot: convierte un Echo Dot de 3.ª generación en asistente de voz local para Home Assistant",
+      "url": "https://t.me/frikilabs/25",
+      "fecha": "2026-11-11",
+      "cat": "domotica"
+    },
+    {
+      "titulo": "Shelly pide actualizar ya el firmware de sus aparatos Gen2 y posteriores",
+      "url": "https://t.me/frikilabs/24",
+      "fecha": "2026-11-10",
+      "cat": "ciber"
+    }
+  ]
 }
