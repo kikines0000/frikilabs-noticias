@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-12T09:17:02+01:00",
+  "actualizado": "2026-11-13T09:40:00+01:00",
   "items": [
+    {
+      "titulo": "Un controlador de ventiladores con ESP32 para tu NAS o rack, listo para Home Assistant",
+      "url": "https://t.me/frikilabs/29",
+      "fecha": "2026-11-13",
+      "cat": "domotica"
+    },
+    {
+      "titulo": "Google lanza sus gafas Intelligent Eyewear con Gemini",
+      "url": "https://t.me/frikilabs/30",
+      "fecha": "2026-11-13",
+      "cat": "gadgets"
+    },
     {
       "titulo": "Gemini ya funciona en CarPlay",
       "url": "https://t.me/frikilabs/28",
@@ -18,18 +30,6 @@
       "url": "https://t.me/frikilabs/26",
       "fecha": "2026-11-11",
       "cat": "gadgets"
-    },
-    {
-      "titulo": "LocalDot: convierte un Echo Dot de 3.ª generación en asistente de voz local para Home Assistant",
-      "url": "https://t.me/frikilabs/25",
-      "fecha": "2026-11-11",
-      "cat": "domotica"
-    },
-    {
-      "titulo": "Shelly pide actualizar ya el firmware de sus aparatos Gen2 y posteriores",
-      "url": "https://t.me/frikilabs/24",
-      "fecha": "2026-11-10",
-      "cat": "ciber"
     }
   ]
 }
