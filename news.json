@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-13T09:40:00+01:00",
+  "actualizado": "2026-11-16T09:46:06+01:00",
   "items": [
+    {
+      "titulo": "Una Raspberry Pi Pico W ya sirve como proxy Bluetooth completo para Home Assistant",
+      "url": "https://t.me/frikilabs/31",
+      "fecha": "2026-11-16",
+      "cat": "domotica"
+    },
+    {
+      "titulo": "Fallo grave en el Philips Hue Bridge v2: comprueba que está actualizado",
+      "url": "https://t.me/frikilabs/32",
+      "fecha": "2026-11-16",
+      "cat": "ciber"
+    },
+    {
+      "titulo": "Oferta: NAS UGREEN DXP4800 Plus de 4 bahías a 519,99 € en Amazon",
+      "url": "https://t.me/frikilabs/33",
+      "fecha": "2026-11-16",
+      "cat": "ofertas"
+    },
     {
       "titulo": "Un controlador de ventiladores con ESP32 para tu NAS o rack, listo para Home Assistant",
       "url": "https://t.me/frikilabs/29",
@@ -11,24 +29,6 @@
       "titulo": "Google lanza sus gafas Intelligent Eyewear con Gemini",
       "url": "https://t.me/frikilabs/30",
       "fecha": "2026-11-13",
-      "cat": "gadgets"
-    },
-    {
-      "titulo": "Gemini ya funciona en CarPlay",
-      "url": "https://t.me/frikilabs/28",
-      "fecha": "2026-11-12",
-      "cat": "ia"
-    },
-    {
-      "titulo": "Home Assistant lanza el Connect AUX-2 para dar vida a aparatos viejos",
-      "url": "https://t.me/frikilabs/27",
-      "fecha": "2026-11-12",
-      "cat": "domotica"
-    },
-    {
-      "titulo": "Ring lanza un dron con cámara para vigilar el interior de casa",
-      "url": "https://t.me/frikilabs/26",
-      "fecha": "2026-11-11",
       "cat": "gadgets"
     }
   ]
