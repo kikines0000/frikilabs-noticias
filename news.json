@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-17T09:43:11+01:00",
+  "actualizado": "2026-11-18T09:38:11+01:00",
   "items": [
+    {
+      "titulo": "WhatsApp prueba su propia copia en la nube en Android, con 2 GB gratis",
+      "url": "https://t.me/frikilabs/40",
+      "fecha": "2026-11-18",
+      "cat": "gadgets"
+    },
+    {
+      "titulo": "Flipper One: un ordenador Linux de bolsillo para redes y radio, en micromecenazgo",
+      "url": "https://t.me/frikilabs/39",
+      "fecha": "2026-11-18",
+      "cat": "gadgets"
+    },
+    {
+      "titulo": "Un purificador Coway pasa de la nube a Home Assistant en local (y destapa un fallo de diseño)",
+      "url": "https://t.me/frikilabs/38",
+      "fecha": "2026-11-18",
+      "cat": "domotica"
+    },
     {
       "titulo": "Oferta: pack de 2 relés Zigbee Sonoff ZBMINIR2 (sin neutro) a 13,20 €",
       "url": "https://t.me/frikilabs/37",
@@ -12,24 +30,6 @@
       "url": "https://t.me/frikilabs/36",
       "fecha": "2026-11-17",
       "cat": "ia"
-    },
-    {
-      "titulo": "Bruce 1.17: nuevo firmware para Cardputer y T-Deck con un arreglo de seguridad",
-      "url": "https://t.me/frikilabs/35",
-      "fecha": "2026-11-17",
-      "cat": "ciber"
-    },
-    {
-      "titulo": "Una Raspberry Pi Pico W ya sirve como proxy Bluetooth completo para Home Assistant",
-      "url": "https://t.me/frikilabs/31",
-      "fecha": "2026-11-16",
-      "cat": "domotica"
-    },
-    {
-      "titulo": "Fallo grave en el Philips Hue Bridge v2: comprueba que está actualizado",
-      "url": "https://t.me/frikilabs/32",
-      "fecha": "2026-11-16",
-      "cat": "ciber"
     }
   ]
 }
