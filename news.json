@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-19T09:45:28+01:00",
+  "actualizado": "2026-11-20T09:40:59+01:00",
   "items": [
+    {
+      "titulo": "Home Assistant ya enciende el «Music Sync» de las luces Aqara en local",
+      "url": "https://t.me/frikilabs/44",
+      "fecha": "2026-11-20",
+      "cat": "domotica"
+    },
+    {
+      "titulo": "Un proveedor hackeado coló código para robar tarjetas en webs como Ikea, BBC o Zoom",
+      "url": "https://t.me/frikilabs/45",
+      "fecha": "2026-11-20",
+      "cat": "ciber"
+    },
+    {
+      "titulo": "Oferta: enchufe Zigbee Sonoff S60ZBTPF con medición de consumo a 9,91 €",
+      "url": "https://t.me/frikilabs/46",
+      "fecha": "2026-11-20",
+      "cat": "ofertas"
+    },
     {
       "titulo": "ESPHome 2026.11 ya es estable: firmwares más ligeros y 4 cambios a revisar antes de actualizar",
       "url": "https://t.me/frikilabs/41",
@@ -12,24 +30,6 @@
       "url": "https://t.me/frikilabs/42",
       "fecha": "2026-11-19",
       "cat": "domotica"
-    },
-    {
-      "titulo": "Oferta: sensor de presencia Zigbee Sonoff SNZB-06P24 a 15,79 €",
-      "url": "https://t.me/frikilabs/43",
-      "fecha": "2026-11-19",
-      "cat": "ofertas"
-    },
-    {
-      "titulo": "WhatsApp prueba su propia copia en la nube en Android, con 2 GB gratis",
-      "url": "https://t.me/frikilabs/40",
-      "fecha": "2026-11-18",
-      "cat": "gadgets"
-    },
-    {
-      "titulo": "Flipper One: un ordenador Linux de bolsillo para redes y radio, en micromecenazgo",
-      "url": "https://t.me/frikilabs/39",
-      "fecha": "2026-11-18",
-      "cat": "gadgets"
     }
   ]
 }
