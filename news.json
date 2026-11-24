@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-20T09:40:59+01:00",
+  "actualizado": "2026-11-24T09:43:47+01:00",
   "items": [
+    {
+      "titulo": "Tessera: paneles táctiles para Home Assistant con pantallas ESP32, sin YAML",
+      "url": "https://t.me/frikilabs/47",
+      "fecha": "2026-11-24",
+      "cat": "domotica"
+    },
+    {
+      "titulo": "Arduino para ESP32 llega a la versión 4.0.0, con soporte oficial del LilyGO T-Deck",
+      "url": "https://t.me/frikilabs/48",
+      "fecha": "2026-11-24",
+      "cat": "gadgets"
+    },
+    {
+      "titulo": "Kagi, el buscador de pago sin anuncios, lanza su propio correo",
+      "url": "https://t.me/frikilabs/49",
+      "fecha": "2026-11-24",
+      "cat": "ciber"
+    },
     {
       "titulo": "Home Assistant ya enciende el «Music Sync» de las luces Aqara en local",
       "url": "https://t.me/frikilabs/44",
@@ -12,24 +30,6 @@
       "url": "https://t.me/frikilabs/45",
       "fecha": "2026-11-20",
       "cat": "ciber"
-    },
-    {
-      "titulo": "Oferta: enchufe Zigbee Sonoff S60ZBTPF con medición de consumo a 9,91 €",
-      "url": "https://t.me/frikilabs/46",
-      "fecha": "2026-11-20",
-      "cat": "ofertas"
-    },
-    {
-      "titulo": "ESPHome 2026.11 ya es estable: firmwares más ligeros y 4 cambios a revisar antes de actualizar",
-      "url": "https://t.me/frikilabs/41",
-      "fecha": "2026-11-19",
-      "cat": "domotica"
-    },
-    {
-      "titulo": "SwitchBot Hub 4: mando infrarrojo con pantalla, voz y puente Matter 1.3",
-      "url": "https://t.me/frikilabs/42",
-      "fecha": "2026-11-19",
-      "cat": "domotica"
     }
   ]
 }
