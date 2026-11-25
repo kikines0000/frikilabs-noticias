@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-24T09:43:47+01:00",
+  "actualizado": "2026-11-25T09:46:44+01:00",
   "items": [
+    {
+      "titulo": "ESPHome 2026.11.1: primer parche de la versión de noviembre",
+      "url": "https://t.me/frikilabs/50",
+      "fecha": "2026-11-25",
+      "cat": "domotica"
+    },
+    {
+      "titulo": "Lavadoras y hornos Bosch, Siemens y Neff en Home Assistant sin pasar por la nube",
+      "url": "https://t.me/frikilabs/51",
+      "fecha": "2026-11-25",
+      "cat": "domotica"
+    },
+    {
+      "titulo": "Gemini ya deja guardar el historial sin que tus chats entrenen a la IA",
+      "url": "https://t.me/frikilabs/52",
+      "fecha": "2026-11-25",
+      "cat": "ia"
+    },
     {
       "titulo": "Tessera: paneles táctiles para Home Assistant con pantallas ESP32, sin YAML",
       "url": "https://t.me/frikilabs/47",
@@ -12,24 +30,6 @@
       "url": "https://t.me/frikilabs/48",
       "fecha": "2026-11-24",
       "cat": "gadgets"
-    },
-    {
-      "titulo": "Kagi, el buscador de pago sin anuncios, lanza su propio correo",
-      "url": "https://t.me/frikilabs/49",
-      "fecha": "2026-11-24",
-      "cat": "ciber"
-    },
-    {
-      "titulo": "Home Assistant ya enciende el «Music Sync» de las luces Aqara en local",
-      "url": "https://t.me/frikilabs/44",
-      "fecha": "2026-11-20",
-      "cat": "domotica"
-    },
-    {
-      "titulo": "Un proveedor hackeado coló código para robar tarjetas en webs como Ikea, BBC o Zoom",
-      "url": "https://t.me/frikilabs/45",
-      "fecha": "2026-11-20",
-      "cat": "ciber"
     }
   ]
 }
