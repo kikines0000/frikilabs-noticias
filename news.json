@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-25T09:46:44+01:00",
+  "actualizado": "2026-11-26T09:38:34+01:00",
   "items": [
+    {
+      "titulo": "Home Assistant 2026.12 entra en beta: Cloud pasa a llamarse «Home Assistant Link»",
+      "url": "https://t.me/frikilabs/53",
+      "fecha": "2026-11-26",
+      "cat": "domotica"
+    },
+    {
+      "titulo": "1Password confirma un ciberataque: robaron nombres y correos de parte de sus clientes",
+      "url": "https://t.me/frikilabs/54",
+      "fecha": "2026-11-26",
+      "cat": "ciber"
+    },
     {
       "titulo": "ESPHome 2026.11.1: primer parche de la versión de noviembre",
       "url": "https://t.me/frikilabs/50",
@@ -18,18 +30,6 @@
       "url": "https://t.me/frikilabs/52",
       "fecha": "2026-11-25",
       "cat": "ia"
-    },
-    {
-      "titulo": "Tessera: paneles táctiles para Home Assistant con pantallas ESP32, sin YAML",
-      "url": "https://t.me/frikilabs/47",
-      "fecha": "2026-11-24",
-      "cat": "domotica"
-    },
-    {
-      "titulo": "Arduino para ESP32 llega a la versión 4.0.0, con soporte oficial del LilyGO T-Deck",
-      "url": "https://t.me/frikilabs/48",
-      "fecha": "2026-11-24",
-      "cat": "gadgets"
     }
   ]
 }
